@@ -1,5 +1,5 @@
 from labwork_1.functions import check_operator, check_option
-import variables
+from labwork_1 import variables
 from labwork_1.tasks import task1, task2, task3, task5, task6, task7, task8, task9, task10
 
 
@@ -107,4 +107,5 @@ def main():
             continue
 
 
-main()
+if __name__ == "__main__":
+    main()

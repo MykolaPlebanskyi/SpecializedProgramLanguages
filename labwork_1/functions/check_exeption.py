@@ -1,6 +1,6 @@
 import math
 
-import variables
+from labwork_1 import variables
 
 
 def check_division_zero(number1, number2):

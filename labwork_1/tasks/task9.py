@@ -1,4 +1,4 @@
-import variables
+from labwork_1 import variables
 
 
 def history():
