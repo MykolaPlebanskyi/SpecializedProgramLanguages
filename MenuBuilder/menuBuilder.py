@@ -43,7 +43,8 @@ def option4():
 
 
 def option5():
-    print("Will be available in the future...")
+    interface = labwork5()
+    interface.user_input()
 
 
 def option6():
