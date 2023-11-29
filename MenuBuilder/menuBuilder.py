@@ -48,7 +48,9 @@ def option5():
 
 
 def option6():
-    print("Will be available in the future...")
+    interface = labwork6()
+    suite = interface.user_interface()
+    unittest.TextTestRunner().run(suite)
 
 
 def option7():
