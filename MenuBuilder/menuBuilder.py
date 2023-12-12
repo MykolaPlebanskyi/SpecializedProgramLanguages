@@ -6,6 +6,7 @@ from labwork_3.interface import Interface as labwork3
 from labwork_4.interface import Interface as labwork4
 from labwork_5.interface import Interface as labwork5
 from labwork_6.interface import Interface as labwork6
+from labwork_7.interface import Interface as labwork7
 
 
 def display_menu():
@@ -54,7 +55,8 @@ def option6():
 
 
 def option7():
-    print("Will be available in the future...")
+    interface = labwork7()
+    interface.user_input()
 
 
 def option8():
