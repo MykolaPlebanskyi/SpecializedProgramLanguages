@@ -1,0 +1,16 @@
+ID,Refund,Status,Income,Cheat
+ 1,true,single,125,false
+ 2,false,married,100,false
+ 3,false,single,70,false
+ 4,true,married,120,false
+ 5,false,divorced,95,true
+ 6,false,married,60,false
+ 7,true,divorced,220,false
+ 8,false,single,85,true
+ 9,false,married,75,false
+10,false,single,90,true
+11,true,single,80,true
+12,false,married,115,false
+13,true,single,150,true
+14,true,divorced,105,false
+15,false,married,95,true

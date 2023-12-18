@@ -1,0 +1,78 @@
+{
+  "name": "python_smp",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "variables": {
+    "error": "Error: ",
+    "labwork_1": {
+      "first_number": "Please write first number: ",
+      "second_number": "Please write second number: ",
+      "operator": "Please write operator(+, -, *, /, %, ^, \u221A): ",
+      "numbers" : "Enter the number of decimal places in the result: ",
+      "error_zero": "Error: The number can't be zero",
+      "error_sqrt": "Error: The number cannot be less than zero"
+    },
+    "labwork_2":{
+      "first_number": "Please write first number: ",
+      "second_number": "Please write second number: ",
+      "operator": "Please write operator(+, -, *, /, %, ^, \u221A, random): "
+    },
+    "labwork_3": {
+    "user_word_input": "Please enter a word or phrase: ",
+    "user_choice_input": "If you want to use your characters, please write 'custom', if not, you can enter anything or leave it out: ",
+    "user_character_input": "What character you want use?: ",
+    "user_font_input" : "Fronts: \n 1. '5lineoblique'\n 2. 'banner'\n 3. 'slant'\n 4. 'doom'\n 5. 'cyberlarge'\n 6. 'big'\nPlease choose font: ",
+    "user_color_input": "Please choose color : ",
+    "width_input" : "Please enter the width (optimal 100): ",
+    "height_input" : "Please enter the height (optimal 1): "
+  },
+    "labwork_4": {
+    "user_word_input": "Please enter a word or phrase: ",
+    "user_alignment_input": "Please enter the alignment(left, right, center): ",
+    "user_character_input": "What character you want use?: ",
+    "user_color_input": "Please choose color : ",
+    "width_input": "Please enter the width (optimal 50): "
+  },
+    "labwork_5": {
+      "user_width" : "Enter the width (more than 8):",
+      "user_height" : "Enter the height (more than 8):",
+      "user_length" : "Enter the length (more than the height by 4):",
+      "color_left" : "Enter a color for the left edge (default yellow): ",
+      "color_top" : "Enter a color for the top border (default blue): ",
+      "color_front" : "Enter a color for the leading edge (default green): ",
+      "color_shadow" : "Enter a color for the shadow (default white): ",
+      "choose_zoom" : "Do you want to zoom the art? (Yes/No): "
+    },
+      "labwork_7": {
+        "menu_input": "Please choose: ",
+        "url_choice": "'1': https://jsonplaceholder.org/users\n'2': https://jsonplaceholder.org/posts\n'3': https://jsonplaceholder.org/comments\nYour choice: ",
+        "method_input": "Methods: \n 1. 'Table'\n 2. 'List'\nPlease choose method : ",
+        "user_color_input" : "Please choose color : ",
+        "ask_save_to_file": "Do you want to save the result to a file? (Yes/No): ",
+        "file_name" : "Please enter file name: ",
+        "format_input" : "Formats: \n 1. 'Txt'\n 2. 'Json'\n 3. 'Csv'\nPlease choose method : "
+
+      },
+    "lab_8": {
+        "data": {
+          "type": "Input data type",
+          "custom": "Input custom data"
+        },
+        "site": "Input site",
+        "color": "Choose color",
+        "font": "Choose font",
+        "header_color": "Do you want to set header color (1/0:)",
+        "header_font": "Do you want to set header font (1/0:)",
+        "list": "LIST"
+      }
+  }
+}
+
+
+
+
+
+
+
+

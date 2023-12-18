@@ -1,0 +1,34 @@
++------+-------------+------------+----------------------+-------------+-------------------+-------------------+----------------+----------------------+------------------+
+|   id | firstname   | lastname   | email                | birthDate   | login             | address           | phone          | website              | company          |
+|------+-------------+------------+----------------------+-------------+-------------------+-------------------+----------------+----------------------+------------------|
+|    1 | John        | Doe        | johndoe@example.com  | 1973-01-22  | johndoe           | 123 Main Street   | (555) 555-1234 | www.johndoe.com      | ABC Company      |
+|    2 | Jane        | Smith      | janesmith@example... | 1983-02-22  | janesmith         | 456 Oak Street    | (555) 555-5678 | www.janesmith.com    | XYZ Corporation  |
+|    3 | Bob         | Johnson    | bobjohnson@exampl... | 1974-11-12  | bobjohnson        | 789 Elm Street    | (555) 555-9012 | www.bobjohnson.com   | Acme Corporation |
+|    4 | Emily       | Davis      | emilydavis@exampl... | 1974-11-30  | emilydavis        | 321 Maple Street  | (555) 555-3456 | www.emilydavis.com   | GHI Corporation  |
+|    5 | William     | Brown      | williambrown@exam... | 1974-11-22  | williambrown      | 567 Pine Street   | (555) 555-6789 | www.williambrown.com | JKL Industries   |
+|    6 | Laura       | Wilson     | laurawilson@examp... | 1984-12-14  | laurawilson       | 789 Maple Street  | (555) 555-1234 | www.laurawilson.com  | LMN Corporation  |
+|    7 | Michael     | Garcia     | michaelgarcia@exa... | 1984-12-14  | michaelgarcia     | 234 Elm Street    | (555) 555-9012 | www.michaelgarcia... | NOP Enterprises  |
+|    8 | Stephanie   | Lee        | stephanielee@exam... | 1983-02-13  | stephanielee      | 345 Oak Street    | (555) 555-3456 | www.stephanielee.com | PQR Industries   |
+|    9 | David       | Hernandez  | davidhernandez@ex... | 2000-11-10  | davidhernandez    | 456 Pine Street   | (555) 555-6789 | www.davidhernande... | RST Corporation  |
+|   10 | Jessica     | Perez      | jessicaperez@exam... | 1988-11-13  | jessicaperez      | 789 Oak Street    | (555) 555-9012 | www.jessicaperez.com | UVW Corporation  |
+|   11 | Mark        | Thompson   | markthompson@exam... | 1999-01-17  | markthompson      | 123 Elm Street    | (555) 555-1234 | www.markthompson.com | LMN Enterprises  |
+|   12 | Lisa        | Rodriguez  | lisarodriguez@exa... | 1999-01-17  | lisarodriguez     | 456 Maple Street  | (555) 555-5678 | www.lisarodriguez... | NOP Corporation  |
+|   13 | Julia       | Kim        | juliakim@example.com | 2002-11-11  | juliakim          | 123 Cherry Street | (555) 555-1234 | www.juliakim.com     | ABC Corporation  |
+|   14 | Max         | Brown      | maxbrown@example.com | 2007-10-07  | maxbrown          | 456 Oak Street    | (555) 555-5678 | www.maxbrown.com     | XYZ Enterprises  |
+|   15 | Oliver      | Martinez   | olivermartinez@ex... | 2001-11-03  | olivermartinez    | 789 Elm Street    | (555) 555-9012 | www.olivermartine... | PQR Corporation  |
+|   16 | Sophie      | Lee        | sophielee@example... | 1982-04-12  | sophielee         | 321 Pine Street   | (555) 555-3456 | www.sophielee.com    | GHI Enterprises  |
+|   17 | Mia         | Nguyen     | mianuguyen@exampl... | 1980-05-22  | mianuguyen        | 567 Oak Street    | (555) 555-9012 | www.mianuguyen.com   | JKL Enterprises  |
+|   18 | Lucas       | Kim        | lucaskim@example.com | 1980-05-22  | lucaskim          | 789 Cherry Street | (555) 555-5678 | www.lucaskim.com     | LMN Industries   |
+|   19 | Isabella    | Hernandez  | isabellahernandez... | 1980-09-26  | isabellahernandez | 123 Pine Street   | (555) 555-1234 | www.isabellaherna... | NOP Industries   |
+|   20 | Ethan       | Kim        | ethankim@example.com | 1983-03-06  | ethankim          | 456 Maple Street  | (555) 555-5678 | www.ethankim.com     | PQR Enterprises  |
+|   21 | Ava         | Patel      | avapatel@example.com | 1983-08-01  | avapatel          | 789 Maple Street  | (555) 555-9012 | www.avapatel.com     | UVW Enterprises  |
+|   22 | William     | Kim        | williamkim@exampl... | 1983-08-01  | williamkim        | 123 Elm Street    | (555) 555-1234 | www.williamkim.com   | JKL Corporation  |
+|   23 | Ella        | Lee        | ellalee@example.com  | 1983-08-01  | ellalee           | 456 Pine Street   | (555) 555-5678 | www.ellalee.com      | NOP Industries   |
+|   24 | Noah        | Martin     | noahmartin@exampl... | 1983-09-11  | noahmartin        | 789 Oak Street    | (555) 555-9012 | www.noahmartin.com   | ABC Enterprises  |
+|   25 | Emma        | Garcia     | emmagarcia@exampl... | 1983-09-11  | emmagarcia        | 123 Oak Street    | (555) 555-1234 | www.emmagarcia.com   | GHI Corporation  |
+|   26 | Aiden       | Martinez   | aidenmartinez@exa... | 1983-09-11  | aidenmartinez     | 456 Cherry Street | (555) 555-5678 | www.aidenmartinez... | JKL Industries   |
+|   27 | Chloe       | Nguyen     | chloenguyen@examp... | 1988-12-13  | chloenguyen       | 789 Maple Street  | (555) 555-9012 | www.chloenguyen.com  | LMN Enterprises  |
+|   28 | Liam        | Brown      | liambrown@example... | 2002-01-25  | stefankupidura    | 123 Pine Street   | (555) 555-1234 | www.liambrown.com    | PQR Corporation  |
+|   29 | Jasmine     | Brown      | jasminebrown@exam... | 1990-11-19  | jasminebrown      | 124 Elm Street    | (555) 555-1234 | www.jasminebrown.com | A&B Technology   |
+|   30 | Stefan      | Kupidura   | stefankupidura@ex... | 1978-12-25  | stefankupidura    | 456 Cherry Street | (555) 555-1234 | www.stefankupidur... | ABC Corporation  |
++------+-------------+------------+----------------------+-------------+-------------------+-------------------+----------------+----------------------+------------------+
